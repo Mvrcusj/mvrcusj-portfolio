@@ -4,10 +4,10 @@
 
 ### Projects!
 
-[Order Book]
+- Order Book
 
 ---
-[Web Calculator]
+- Web Calculator
 
 ---
 
